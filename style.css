@@ -1,0 +1,52 @@
+body{
+    background-color: #bb6060;
+}
+#logotipo{
+    height: 3cm;
+    border-radius: 8cm;
+}
+#logo2{
+    height: 3cm;
+    border-radius: 8cm;
+}
+H1{
+    text-align: center;
+    color: #00AF08;
+    border: #FFFFFF;
+    margin-top: 0%;
+}
+#intro{
+    text-align: center:justify;
+    font-family: arial;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    font-size: 30px;
+}
+#casa{
+    height: 6cm;
+    width: 6cm;
+}
+table{
+    margin-right: 50px;
+    background-color: #f3ecec;
+}
+th,td{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border-style: groove;
+    border-color: black;
+    border-width: 5px;
+}
+div{
+    border-style: solid;
+    border-color: white;
+    background-color: black;
+}
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
